@@ -1,0 +1,10 @@
+fea:  feature subset
+f:    labels
+data: original data
+
+tloc:
+
+
+
+Rcpp  .size() function return to the length of a vector
+      .nrow() and .ncol() get dimension of a matrix
